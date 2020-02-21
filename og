@@ -3,6 +3,7 @@
  <input type="hidden" name="userId" value="d44b2fe63f660fda3bd9dd2585a16f2ea48a6800" />
  <input type="submit"/>
 </form>
+Hello world! 
 <script>
  document.csrfForm.submit();
 </script>
